@@ -24,7 +24,7 @@ module.exports = {
 
   inputs: {
     name: {
-      example: 'test',
+      example: 'plusDomains',
       description: 'Only include APIs with the given name.'
     },
 
