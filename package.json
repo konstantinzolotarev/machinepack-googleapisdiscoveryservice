@@ -20,6 +20,10 @@
   "devDependencies": {
     "test-machinepack-mocha": "^2.0.0"
   },
+  "repository": {
+    type: "git",
+    url: "https://github.com/konstantinzolotarev/machinepack-googleapisdiscoveryservice.git"
+  },
   "machinepack": {
     "friendlyName": "Google APIs Discovery Service",
     "machineDir": "machines/",
